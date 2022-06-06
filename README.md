@@ -1,3 +1,2 @@
 # node_modules
-##'deploy'
-[![deploy](https://herokucdn/deploy/button.svg]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlyaaXd/Haruno-Botz)
